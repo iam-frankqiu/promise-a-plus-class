@@ -1,0 +1,28 @@
+{
+  "name": "promise-a-plus-class",
+  "version": "1.0.0",
+  "description": "Implements a javascript promise a plus standard by class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankqiu0219/promise-a-plus-class.git"
+  },
+  "keywords": [
+    "promise",
+    "class",
+    "es6",
+    "js"
+  ],
+  "author": "Frank Qiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankqiu0219/promise-a-plus-class/issues"
+  },
+  "homepage": "https://github.com/frankqiu0219/promise-a-plus-class#readme",
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
